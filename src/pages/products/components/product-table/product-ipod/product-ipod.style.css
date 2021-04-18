@@ -1,0 +1,7 @@
+.product-ipod-container {
+    width: 95%;
+    margin: 0% auto;
+    min-height: 25px;
+    border: 1px solid red;
+    margin-top: 3px;
+}
